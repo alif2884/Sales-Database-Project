@@ -64,8 +64,8 @@ Example ER Diagram:
 ![Diagram - G5](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
 
 ## 🎓 Academic Context
-This project was completed in Spring 2025 as part of the Information Technology course
-at the Industrial Engineering Department, Sharif University of Technology.
+This project was completed during the Spring 2025 term for the Information Technology course,
+part of the Industrial Engineering curriculum at Sharif University of Technology.
 
 ## 🧠 What I Learned
 - Working with existing messy databases and restructuring them
