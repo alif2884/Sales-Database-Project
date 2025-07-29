@@ -35,12 +35,6 @@ The project includes full relational modeling, logical design, table creation, a
 
 ---
 
-## 📷 Preview
-
-*(Insert ERD image or screenshot of result)*
-
----
-
 ## 🎓 Academic Context
 
 This project was created during my undergraduate studies at Sharif University of Technology.  
