@@ -60,6 +60,7 @@ To run this project locally in PostgreSQL:
 
 ## 📷 Preview
 📄The ER diagram is available both as an image and as an editable Navicat file.
+
 Example ER Diagram:
 
 ![Diagram - G5](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
