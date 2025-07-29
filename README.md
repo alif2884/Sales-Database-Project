@@ -51,11 +51,11 @@ To run this project locally in PostgreSQL:
 
   The rest of the .sql files in the queries/ folder can be run independently:
 
-  basic_queries.sql
+  - basic_queries.sql
 
-  business_queries.sql
+  - business_queries.sql
 
-  analytics_queries.sql
+  - analytics_queries.sql
 
 ## 📷 Preview
 Example ER Diagram:
@@ -67,13 +67,13 @@ This project was completed in Spring 2025 as part of the Information Technology 
 at the Industrial Engineering Department, Sharif University of Technology.
 
 ## 🧠 What I Learned
-Working with existing messy databases and restructuring them
+- Working with existing messy databases and restructuring them
 
-Creating normalized database schemas with PK/FK constraints
+- Creating normalized database schemas with PK/FK constraints
 
-Writing analytical SQL queries directly from a clean schema
+- Writing analytical SQL queries directly from a clean schema
 
 ## 📎 Notes
-The file shop.sql must be run first before anything else.
+- The file shop.sql must be run first before anything else.
 
-All queries assume that the normalized schema has been successfully created and populated from the reference database.
+- All queries assume that the normalized schema has been successfully created and populated from the reference database.
