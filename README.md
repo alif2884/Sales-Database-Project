@@ -63,6 +63,8 @@ Example ER Diagram:
 
 ![Diagram - G5](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
 
+📄 You can also find the editable version of the ER diagram in `ER.nmodel` format (Navicat).
+
 ## 🎓 Academic Context
 This project was completed during the Spring 2025 term for the Information Technology course,
 part of the Industrial Engineering curriculum at Sharif University of Technology.
