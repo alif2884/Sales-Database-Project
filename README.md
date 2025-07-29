@@ -77,6 +77,9 @@ part of the Industrial Engineering curriculum at Sharif University of Technology
 - Writing analytical SQL queries directly from a clean schema
 
 ## 📎 Notes
+
+- The original project documentation is available in PDF format. It includes the assignment instructions, ERD, explanation of queries, and course details.
+
 - The file shop.sql must be run first before anything else.
 
 - All queries assume that the normalized schema has been successfully created and populated from the reference database.
