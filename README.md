@@ -35,21 +35,21 @@ To run this project locally in PostgreSQL:
 1. **Run the raw data file first:**
 
    This creates the base tables and fills them with raw data.
-
+   
    ```bash
    \i shop/shop.sql
    ```
 
-2. **Run your normalized schema:**
+3. **Run your normalized schema:**
 
    This will create new tables based on your ERD and insert data into them.
-
+   
   ```bash
   \i schema/create_tables.sql
   ```
 
 3. **Run query files (any order):**
-
+   
    The rest of the .sql files in the queries/ folder can be run independently:
 
   - basic_queries.sql
