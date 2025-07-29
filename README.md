@@ -39,6 +39,7 @@ To run this project locally in PostgreSQL:
    ```bash
    \i shop/shop.sql
    ```
+
 2. **Run your normalized schema:**
 
   This will create new tables based on your ERD and insert data into them.
