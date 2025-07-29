@@ -42,7 +42,7 @@ To run this project locally in PostgreSQL:
 
 2. **Run your normalized schema:**
 
-  This will create new tables based on your ERD and insert data into them.
+   This will create new tables based on your ERD and insert data into them.
 
   ```bash
   \i schema/create_tables.sql
@@ -50,7 +50,7 @@ To run this project locally in PostgreSQL:
 
 3. **Run query files (any order):**
 
-  The rest of the .sql files in the queries/ folder can be run independently:
+   The rest of the .sql files in the queries/ folder can be run independently:
 
   - basic_queries.sql
 
