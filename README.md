@@ -1,4 +1,4 @@
-# 🗃️ Sales Database Project using PostgreSQL
+# 🗃️ Sales Database Design & Analysis with PostgreSQL
 
 This project models and analyzes a sales order management system using PostgreSQL.  
 It was developed as part of an academic course at Sharif University of Technology.
