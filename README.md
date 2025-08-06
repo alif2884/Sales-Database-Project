@@ -20,7 +20,7 @@ We then perform several types of SQL queries — from simple lookups to deeper a
 
 ---
 
-## 🧰 Technologies Used
+## 🔧 Technologies / Topics
 
 - PostgreSQL
 - SQL (DDL, DML, Subqueries, Joins, Aggregates)
@@ -68,13 +68,6 @@ Example ER Diagram:
 ## 🎓 Academic Context
 This project was completed during the Spring 2025 term for the Information Technology course,
 part of the Industrial Engineering curriculum at Sharif University of Technology.
-
-## 🧠 What I Learned
-- Working with existing messy databases and restructuring them
-
-- Creating normalized database schemas with PK/FK constraints
-
-- Writing analytical SQL queries directly from a clean schema
 
 ## 📎 Notes
 
