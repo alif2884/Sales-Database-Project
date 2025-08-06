@@ -50,9 +50,9 @@ To run the project locally in PostgreSQL:
 
 3. Run query scripts as needed (order does not matter):
 
-- `basic_queries.sql`  
-- `business_queries.sql`  
-- `analytics_queries.sql`  
+   - `basic_queries.sql`  
+   - `business_queries.sql`  
+   - `analytics_queries.sql`  
 
 ---
 
