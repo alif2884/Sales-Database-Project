@@ -44,9 +44,9 @@ To run the project locally in PostgreSQL:
 
 2. Run the normalized schema script to create structured tables and insert data:
 
-    ```bash
-    \i schema/create_tables.sql
-    ```
+   ```bash
+   \i schema/create_tables.sql
+   ```
 
 3. Run query scripts as needed (order does not matter):
 
