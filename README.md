@@ -8,7 +8,7 @@ We then perform several types of SQL queries — from simple lookups to deeper a
 
 ---
 
-## 🧠 What This Project Covers
+## 🔎 Features
 
 - Extracting data from an existing raw database
 - Designing a new normalized schema (based on ERD and logical design)
