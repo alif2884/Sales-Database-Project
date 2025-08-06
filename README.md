@@ -6,6 +6,11 @@ It was developed as part of an academic course at Sharif University of Technolog
 The goal is to extract data from an existing raw database (`shop.sql`), normalize the structure, and build a cleaner, well-structured schema for analysis.  
 We then perform several types of SQL queries — from simple lookups to deeper analytical insights.
 
+## 🧠 Overview
+This project was my first experience designing a full relational database from raw retail data. 
+
+I structured and normalized data into a clean schema using PostgreSQL and wrote SQL queries to analyze sales trends, customer behavior, and product categories.
+
 ---
 
 ## 🔎 Features
