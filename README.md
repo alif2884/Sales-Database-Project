@@ -1,87 +1,79 @@
 # 🗃️ Sales Database Design & Analysis with PostgreSQL
 
-This project models and analyzes a sales order management system using PostgreSQL.  
-It was developed as part of an academic course at Sharif University of Technology.
+A comprehensive sales order management system modeled and analyzed using PostgreSQL.  
+Developed as part of an academic course at Sharif University of Technology.
 
-The goal is to extract data from an existing raw database (`shop.sql`), normalize the structure, and build a cleaner, well-structured schema for analysis.  
-We then perform several types of SQL queries — from simple lookups to deeper analytical insights.
+---
 
 ## 🧠 Overview
-This project was my first experience designing a full relational database from raw retail data. 
 
-I structured and normalized data into a clean schema using PostgreSQL and wrote SQL queries to analyze sales trends, customer behavior, and product categories.
+This was my first experience designing a full relational database from raw retail data.  
+The project involved data extraction, normalization into a clean schema, and writing SQL queries to analyze sales trends, customer behavior, and product categories.
 
 ---
 
 ## 🔎 Features
 
-- Extracting data from an existing raw database
-- Designing a new normalized schema (based on ERD and logical design)
-- Creating tables and inserting normalized data
-- Writing different SQL queries:
-  - Basic queries (retrieving customers, orders, etc.)
-  - Business logic queries (filtering, joins, grouping)
+- Extraction of raw data from an existing database  
+- Designing and implementing a normalized schema based on ER diagrams  
+- Creating tables and inserting normalized data  
+- Writing SQL queries across various levels:  
+  - Basic retrieval queries (customers, orders)  
+  - Business logic queries (filtering, joins, grouping)  
   - Analytical queries (segmentation, time-based performance)
 
 ---
 
 ## 🔧 Technologies / Topics
 
-- PostgreSQL
-- SQL (DDL, DML, Subqueries, Joins, Aggregates)
-- Navicat (for GUI interaction)
-
----
-
-## 📂 Files
-- SQL scripts for schema creation and data loading  
-- Sample analytical queries (e.g. sales, category, returns)  
-- Database diagram / ER model
+- PostgreSQL  
+- SQL (DDL, DML, Subqueries, Joins, Aggregates)  
+- Navicat (GUI tool for database management)
 
 ---
 
 ## ⚙️ How to Use
 
-To run this project locally in PostgreSQL:
+To run the project locally in PostgreSQL:
 
-1. **Run the raw data file first:**
+1. Run the raw data script to create and populate base tables:
 
-   This creates the base tables and fills them with raw data.
-   
    ```bash
    \i shop/shop.sql
    ```
 
-2. **Run your normalized schema:**
+2. Run the normalized schema script to create structured tables and insert data:
 
-   This will create new tables based on your ERD and insert data into them.
-   
     ```bash
     \i schema/create_tables.sql
     ```
 
-3. **Run query files (any order):**
-   
-   The rest of the .sql files in the queries/ folder can be run independently:
+3. Run query scripts as needed (order does not matter):
 
-    - basic_queries.sql
+- `basic_queries.sql`  
+- `business_queries.sql`  
+- `analytics_queries.sql`  
 
-    - business_queries.sql
+---
 
-    - analytics_queries.sql
+## 📂 Files
+
+- SQL scripts for schema creation and data loading  
+- Sample analytical queries  
+- Database diagram / ER model files
+
+---
 
 ## 📷 Preview
-📄The ER diagram is available both as an image and as an editable Navicat file.
 
-Example ER Diagram:
+The ER diagram is available both as an image and as an editable Navicat file.
 
-![Diagram - G5](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
+![ER Diagram](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
 
+---
 
 ## 📎 Notes
 
-- The original project documentation is available in PDF format. It includes the assignment instructions, ERD, explanation of queries, and course details.
-
-- The file shop.sql must be run first before anything else.
-
-- All queries assume that the normalized schema has been successfully created and populated from the reference database.
+- The original project documentation, including assignment instructions and explanations, is available in PDF format.  
+- Ensure `shop.sql` is executed before running other scripts.  
+- All queries assume the normalized schema is properly created and populated.
