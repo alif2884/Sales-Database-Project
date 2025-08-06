@@ -28,6 +28,11 @@ We then perform several types of SQL queries — from simple lookups to deeper a
 
 ---
 
+## 📂 Files
+- SQL scripts for schema creation and data loading  
+- Sample analytical queries (e.g. sales, category, returns)  
+- Database diagram / ER model
+
 ## ⚙️ How to Use
 
 To run this project locally in PostgreSQL:
@@ -65,9 +70,6 @@ Example ER Diagram:
 
 ![Diagram - G5](https://github.com/user-attachments/assets/80568d86-0689-44af-8021-cc55ac7b0a78)
 
-## 🎓 Academic Context
-This project was completed during the Spring 2025 term for the Information Technology course,
-part of the Industrial Engineering curriculum at Sharif University of Technology.
 
 ## 📎 Notes
 
