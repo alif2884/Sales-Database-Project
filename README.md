@@ -33,6 +33,8 @@ We then perform several types of SQL queries — from simple lookups to deeper a
 - Sample analytical queries (e.g. sales, category, returns)  
 - Database diagram / ER model
 
+---
+
 ## ⚙️ How to Use
 
 To run this project locally in PostgreSQL:
